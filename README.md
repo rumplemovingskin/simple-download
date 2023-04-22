@@ -1,5 +1,7 @@
 # simple-download
-A simple pytube based download utility.
+A simple pytube based download utility with a tkinter based GUI
+
+Install/Update pytube and tkinter before use
 
 User enters a URL and intiates a search of available video stream details.
 App makes up to threee attempts to obtain video stream details when exceptions occur.
